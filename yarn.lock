@@ -1825,10 +1825,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.35.0.tgz#b7569632b0b788a0ca0e438235154e45d42813a7"
   integrity sha512-JXdzbRiWclLVoD8sNUjR443VVlYqiYmDVT6rGUEIEHU5YJW0gaVZwV2xgM7D4arkvASqD0IlLUVjHiFuxaftRw==
 
-"@fontsource/lato@^4.5.10":
-  version "4.5.10"
-  resolved "https://registry.yarnpkg.com/@fontsource/lato/-/lato-4.5.10.tgz#1ab3d33282e605886e4a8b4c32b1f230a4cb5ea6"
-  integrity sha512-2hYR6r661Cq9B8zugtu6yxuOKqrVhAgfOSaPSq8XoxbC4ebsl0KOTy/vPoP+9U7JuQVLfrmikirW4a9Z0nDUug==
+"@fontsource/lato@^5.0.19":
+  version "5.0.19"
+  resolved "https://registry.yarnpkg.com/@fontsource/lato/-/lato-5.0.19.tgz#9403de626b68057056cd7a669f08ddd1278ce607"
+  integrity sha512-RdZy7fmmazrs6eV0lvA68/ss+IyLufD52jAx0qJ6Uw7kVZbjrUGh9JZdJshf+X5GdI3/3Anmg1sEPfqBrZTiNg==
 
 "@fontsource/poppins@^4.5.10":
   version "4.5.10"
